@@ -4,7 +4,7 @@
 This repository contains a comprehensive suite of network protocol analysis, security evaluations, and performance diagnostic investigations conducted using **Wireshark**. The primary focus of these labs was to analyze live packet streams, dissect cryptographic structures, map core networking parameters, and establish defensive signature baselines to detect network anomalies.
 
 ## Covered Research & Documentation (PDFs Included)
-1. **wireshark.pdf**: Initial environment setup, network interface verification, and live WLAN packet capture baseline.
+1. **Wireshark Network Traffic Analysis & Protocol Inspection.pdf**: Initial environment setup, network interface verification, and live WLAN packet capture baseline.
 2. **Network Protocol Analysis and Performance Diagnostic Report.pdf**: Technical investigation into network latency, protocol distribution analysis (TCP, DNS, ARP, HTTP, ICMP), and secure encapsulation analysis.
 3. **Practical Network Traffic Analysis Using Wireshark.pdf**: Deep dive into the TCP 3-way handshake sequence, Layer 2 OUI/MAC vendor verification (Intel architecture), and HTTP header inspection.
 4. **ICMP Traffic Analysis Using Wireshark.pdf**: Diagnostic threat modeling mapping ICMP behaviors (Type 8 Requests, Type 0 Replies, and TTL Exceeded In-Transit errors via `tracert`) to build proactive signature baselines.
